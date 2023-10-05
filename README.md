@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning c# and .NET
+- 🌱 I’m currently learning C# and .NET
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
