@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C# and .NET
-- 🌱 HTML, CSS, Javascript, React
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
